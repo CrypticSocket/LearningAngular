@@ -14,5 +14,25 @@ I'm starting on 06-10-2020
 I will, if I remember, update my progress here as I go in order to keep a log of when I learnt what.
 
 ### Updates
-Coming soon.
 
+<em>Date 6-10-2020</em>
+End of Day
+
+Created lots of Components and Modules
+Used interfaces.
+Added a few example customers which are being sent from one component to the customers list component.
+Used @Input() and @Output() properties.
+Used *ngIf, *ngFor and ngModule
+Filter is functional.
+
+### Work List
+~~Create Modules~~
+~~Create Components~~
+~~Filter Box~~
+~~Example Customers~~
+~~Use Directives - ngIf, ngFor, ngModule~~
+~~Use Interfaces~~
+Use Services
+Use Routing
+Build
+Github Pages!!!
