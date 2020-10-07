@@ -31,4 +31,4 @@
         <td>No Customers Found</td>
     </tr>
 </table>
-<p>Total number of customers : {{filteredCustomers.length}} </p>
+<p *ngIf = "filteredCustomers">Total number of customers : {{filteredCustomers.length}} </p>

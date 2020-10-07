@@ -25,6 +25,15 @@ Used @Input() and @Output() properties.
 Used *ngIf, *ngFor and ngModule
 Filter is functional.
 
+<em>Date 7-10-2020 to 8-10-2020 (1.43AM)</em>
+End of Day
+
+Created a Service to fetch data of the customers locally.
+Found a bug in my tutorial.
+HttpClientModule needs to be imported in the app.module for this to work.
+Spent a few hours figuring out what was wrong.
+Next up, Routing.
+
 ### Work List
 ~~Create Modules~~
 ~~Create Components~~
@@ -32,7 +41,7 @@ Filter is functional.
 ~~Example Customers~~
 ~~Use Directives - ngIf, ngFor, ngModule~~
 ~~Use Interfaces~~
-Use Services
+~~Use Services~~
 Use Routing
 Build
 Github Pages!!!
