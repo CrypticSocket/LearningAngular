@@ -5,6 +5,7 @@ table{
 th{
     width : 33%;
     background-color: #AAA;
+    cursor: pointer;
 }
 
 th:hover{

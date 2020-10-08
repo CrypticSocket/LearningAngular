@@ -29,10 +29,17 @@ Filter is functional.
 End of Day
 
 Created a Service to fetch data of the customers locally.
-Found a bug in my tutorial.
+~~Found a bug in my tutorial.
 HttpClientModule needs to be imported in the app.module for this to work.
-Spent a few hours figuring out what was wrong.
+Spent a few hours figuring out what was wrong.~~
+Nah, it was just my stupidity. Didn't notice the part when we had to include HttpClientModule in core.module.
 Next up, Routing.
+
+<em>Date 8-10-2020</em>
+<em>5.00 pm</em>
+
+Added another service - Sorter Service.
+It sorts the table based on whatever property you click on.
 
 ### Work List
 ~~Create Modules~~
