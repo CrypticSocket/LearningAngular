@@ -41,6 +41,11 @@ Next up, Routing.
 Added another service - Sorter Service.
 It sorts the table based on whatever property you click on.
 
+<em>Date 26-10-2020</em>
+After all the procrastination and things that came up....
+
+Done with Routing using harcoded routerLinks = 'here' and dynamic \[routerLinks] = "\['here',something.idOrAnything]"
+
 ### Work List
 ~~Create Modules~~
 ~~Create Components~~

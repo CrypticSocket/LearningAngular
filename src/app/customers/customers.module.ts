@@ -4,6 +4,7 @@ import { CustomersComponent } from './customers.component';
 import { CustomersListComponent } from './customers-list/customers-list.component';
 import { FilterTextboxComponent } from './customers-list/filter-textbox.component';
 import { FormsModule } from '@angular/forms';
+import { CustomersRoutingModule } from "./customers-routing.module"
 
 
 
@@ -11,7 +12,8 @@ import { FormsModule } from '@angular/forms';
   declarations: [CustomersComponent, CustomersListComponent, FilterTextboxComponent],
   imports: [
     CommonModule,
-    FormsModule
+    FormsModule,
+    CustomersRoutingModule
   ],
   exports: [CustomersComponent]
 })
