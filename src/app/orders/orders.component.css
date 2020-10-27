@@ -1,0 +1,11 @@
+.table{
+    width: 50%;
+}
+
+th{
+    background-color: #DDD;
+}
+
+tr, th{
+    width: 50%;
+}

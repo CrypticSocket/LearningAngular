@@ -46,6 +46,21 @@ After all the procrastination and things that came up....
 
 Done with Routing using harcoded routerLinks = 'here' and dynamic \[routerLinks] = "\['here',something.idOrAnything]"
 
+<em>Date 27-10-2020</em>
+Built the Angular App.
+Adding to Github pages.
+It requires the following code.
+
+```
+npm install -g angular-cli-ghpages
+ng build --prod --base-href "https://CrypticSocket.github.io/LearningAngular"
+ngh --dir dist/NewApp
+```
+
+Github pages is ready!
+
+<em>Project Complete</em>
+
 ### Work List
 ~~Create Modules~~
 ~~Create Components~~
@@ -54,6 +69,6 @@ Done with Routing using harcoded routerLinks = 'here' and dynamic \[routerLinks]
 ~~Use Directives - ngIf, ngFor, ngModule~~
 ~~Use Interfaces~~
 ~~Use Services~~
-Use Routing
+~~Use Routing~~
 Build
 Github Pages!!!
